@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>Hibernate-Training</name>
   <description>Hibernate-Training with all examples</description>
+  <modules>
+  	<module>FirstHB</module>
+  </modules>
 </project>
