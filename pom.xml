@@ -28,5 +28,6 @@
     <module>HBOneToManySet</module>
     <module>HBMappingMap</module>
     <module>HBManyToManyMap</module>
+    <module>HBOneToOneMapping</module>
   </modules>
 </project>
