@@ -17,5 +17,6 @@
     <module>HBTablePerHierarchyUsingXML</module>
     <module>HBTablePerHierarchyUsingAnnotations</module>
     <module>HBTablePerConcreteWithXML</module>
+    <module>HBTablePerConcreteWithAnnotations</module>
   </modules>
 </project>
