@@ -30,5 +30,6 @@
     <module>HBManyToManyMap</module>
     <module>HBOneToOneMapping</module>
     <module>HBOneToOneUsingOneToOne</module>
+    <module>HBOneToOneUsingManyToOne</module>
   </modules>
 </project>
