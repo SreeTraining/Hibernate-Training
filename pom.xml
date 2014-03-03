@@ -13,5 +13,6 @@
   	<module>HBAnnotation</module>
     <module>HBWebApp</module>
     <module>HBLog4jProp</module>
+    <module>HBLog4jXML</module>
   </modules>
 </project>
