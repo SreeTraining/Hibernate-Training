@@ -12,5 +12,6 @@
   	<module>FirstHibernateApp</module>
   	<module>HBAnnotation</module>
     <module>HBWebApp</module>
+    <module>HBLog4jProp</module>
   </modules>
 </project>
