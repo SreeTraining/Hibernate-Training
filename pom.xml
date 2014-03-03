@@ -31,5 +31,7 @@
     <module>HBOneToOneMapping</module>
     <module>HBOneToOneUsingOneToOne</module>
     <module>HBOneToOneUsingManyToOne</module>
+    <module>HBNamedQueryWithXML</module>
+    <module>HBNamedQueryWithAnnotations</module>
   </modules>
 </project>
