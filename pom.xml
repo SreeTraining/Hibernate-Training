@@ -27,5 +27,6 @@
     <module>HBMappingSet</module>
     <module>HBOneToManySet</module>
     <module>HBMappingMap</module>
+    <module>HBManyToManyMap</module>
   </modules>
 </project>
