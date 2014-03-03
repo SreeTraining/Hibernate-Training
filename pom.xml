@@ -23,5 +23,6 @@
     <module>HBMappingList</module>
     <module>HBOneToManyList</module>
     <module>HBMappingBag</module>
+    <module>HBOneToManyBag</module>
   </modules>
 </project>
