@@ -8,5 +8,6 @@
   <description>Hibernate-Training with all examples</description>
   <modules>
   	<module>FirstHB</module>
+  	<module>FirstHibernateApp</module>
   </modules>
 </project>
