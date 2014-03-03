@@ -33,5 +33,6 @@
     <module>HBOneToOneUsingManyToOne</module>
     <module>HBNamedQueryWithXML</module>
     <module>HBNamedQueryWithAnnotations</module>
+    <module>HBSecondLevelCache</module>
   </modules>
 </project>
