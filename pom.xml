@@ -22,5 +22,6 @@
     <module>HBTablePerSubClassWithAnnotations</module>
     <module>HBMappingList</module>
     <module>HBOneToManyList</module>
+    <module>HBMappingBag</module>
   </modules>
 </project>
