@@ -20,5 +20,6 @@
     <module>HBTablePerConcreteWithAnnotations</module>
     <module>HBTablePerSubClassWithXML</module>
     <module>HBTablePerSubClassWithAnnotations</module>
+    <module>HBMappingList</module>
   </modules>
 </project>
