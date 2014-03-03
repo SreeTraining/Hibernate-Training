@@ -14,5 +14,6 @@
     <module>HBWebApp</module>
     <module>HBLog4jProp</module>
     <module>HBLog4jXML</module>
+    <module>HBTablePerHierarchyUsingXML</module>
   </modules>
 </project>
