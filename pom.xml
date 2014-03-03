@@ -15,5 +15,6 @@
     <module>HBLog4jProp</module>
     <module>HBLog4jXML</module>
     <module>HBTablePerHierarchyUsingXML</module>
+    <module>HBTablePerHierarchyUsingAnnotations</module>
   </modules>
 </project>
