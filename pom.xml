@@ -24,5 +24,6 @@
     <module>HBOneToManyList</module>
     <module>HBMappingBag</module>
     <module>HBOneToManyBag</module>
+    <module>HBMappingSet</module>
   </modules>
 </project>
