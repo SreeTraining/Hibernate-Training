@@ -19,5 +19,6 @@
     <module>HBTablePerConcreteWithXML</module>
     <module>HBTablePerConcreteWithAnnotations</module>
     <module>HBTablePerSubClassWithXML</module>
+    <module>HBTablePerSubClassWithAnnotations</module>
   </modules>
 </project>
