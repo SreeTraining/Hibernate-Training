@@ -9,5 +9,6 @@
   <modules>
   	<module>FirstHB</module>
   	<module>FirstHibernateApp</module>
+  	<module>HBAnnotation</module>
   </modules>
 </project>
